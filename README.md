@@ -1,4 +1,4 @@
-# HW 4 (Muhammad Umar)
+# Candle Controller System
 
 ## Module 1: extinguisher
 
